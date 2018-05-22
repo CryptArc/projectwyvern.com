@@ -28,7 +28,7 @@ Project Wyvern
 <img class="app-footer-thumb" src="/img/thumb-large.png" />
 <div class="app-footer-left-bottom">
 <div class="app-footer-left-bottom-top">Project Wyvern</div>
-© Project Wyvern Developers
+© Project Wyvern Developers , © Platinum Crypto Developers
 </div>
 </div>
 <div class="app-footer-right">
@@ -36,21 +36,21 @@ Project Wyvern
 <router-link class="footer-link" to="/">Home</router-link>
 <router-link class="footer-link" to="/about">About</router-link>
 <router-link class="footer-link" to="/contact">Contact</router-link>
-<a target="_blank" class="footer-link" href="https://exchange.projectwyvern.com">Exchange</a>
-<a target="_blank" class="footer-link" href="https://dao.projectwyvern.com">DAO</a>
-<a target="_blank" class="footer-link" href="https://token.projectwyvern.com">Token</a>
-<a target="_blank" class="footer-link" href="https://github.com/ProjectWyvern/wyvern-protocol/blob/master/build/whitepaper.pdf">Whitepaper</a>
+<a target="_blank" class="footer-link" href="https://exchange.cryptosports.info">Exchange</a>
+<a target="_blank" class="footer-link" href="https://dao.cryptosports.info">DAO</a>
+<a target="_blank" class="footer-link" href="https://token.cryptosports.info">Token</a>
+<a target="_blank" class="footer-link" href="https://github.com/cryptarc/wyvern-protocol/blob/master/build/whitepaper.pdf">Whitepaper</a>
 </div>
 <div class="app-footer-right-second">
 </div>
 <div class="app-footer-right-middle">
-<a target="_blank" href="https://www.reddit.com/r/projectwyvern/"><icon class="social-icon" name="reddit" scale="2" /></a>
-<a target="_blank" href="https://www.facebook.com/WyvernExchange/"><icon class="social-icon" name="facebook" scale="2" /></a>
-<a target="_blank" href="https://twitter.com/wyvernprotocol"><icon class="social-icon" name="twitter" scale="2" /></a>
-<a target="_blank" href="https://medium.com/project-wyvern"><icon class="social-icon" name="medium" scale="2" /></a>
-<a target="_blank" href="https://github.com/projectwyvern"><icon class="social-icon" name="github" scale="2" /></a>
-<a target="_blank" href="https://riot.im/app/#/room/#projectwyvern:matrix.org"><icon class="social-icon" name="comments" scale="2" /></a>
-<a target="_blank" href="https://discord.gg/dZZdybs"><img src="/img/discord.svg" width="30" height="30" stroke="#fff" class="icon-image social-icon" /></a>
+<a target="_blank" href="https://www.reddit.com/r/bitcoin/"><icon class="social-icon" name="reddit" scale="2" /></a>
+<a target="_blank" href="https://www.facebook.com/blockchaingaming/"><icon class="social-icon" name="facebook" scale="2" /></a>
+<a target="_blank" href="https://twitter.com/cryptosports"><icon class="social-icon" name="twitter" scale="2" /></a>
+<a target="_blank" href="https://medium.com/"><icon class="social-icon" name="medium" scale="2" /></a>
+<a target="_blank" href="https://github.com/cryptarc"><icon class="social-icon" name="github" scale="2" /></a>
+<a target="_blank" href="https://riot.im/app/#/room/#"><icon class="social-icon" name="comments" scale="2" /></a>
+<a target="_blank" href="https://discord.gg/"><img src="/img/discord.svg" width="30" height="30" stroke="#fff" class="icon-image social-icon" /></a>
 <a target="_blank" href="https://t.me/projectwyvern"><icon class="social-icon" name="telegram" scale="2" /></a>
 </div>
 <div class="app-footer-right-bottom">
@@ -67,7 +67,7 @@ export default {
   name: 'app',
   metaInfo: {
     title: '',
-    titleTemplate: 'Project Wyvern • %s'
+    titleTemplate: 'Project Platinum • %s'
   }
 }
 </script>
