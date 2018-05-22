@@ -6,8 +6,8 @@
 </div>
 <div id="center">
 <div class="buttons hidden-xs-only" id="buttons">
-<a href="https://dao.projectwyvern.com" target="_blank"><v-btn class="btn" id="dao" color="primary">DAO</v-btn></a>
-<a href="https://exchange.projectwyvern.com" target="_blank"><v-btn class="btn" id="exchange" color="primary">Exchange</v-btn></a>
+<a href="https://dao.cryptosports.info" target="_blank"><v-btn class="btn" id="dao" color="primary">DAO</v-btn></a>
+<a href="https://exchange.cryptosports.info" target="_blank"><v-btn class="btn" id="exchange" color="primary">Exchange</v-btn></a>
 <a href="#" v-scroll-to="'#texttop'"><v-btn class="btn" id="more" color="primary">Learn More</v-btn></a>
 </div>
 </div>
@@ -33,7 +33,7 @@ Trade any kind of nonfungible digital asset — rare virtual kittens, ENS names,
 <v-flex xs12 md6>
 <div class="textc">
 <div class="textc-title">Avoid Rent-Seeking Intermediaries</div>
-Trades on the Wyvern Exchange are settled peer-to-peer over the Ethereum network, no Paypal fee required. You never need to trust us with your funds or assets, and the complete protocol implementation is publicly auditable.
+Trades on the Exchange are settled peer-to-peer over the Ethereum network, no Paypal fee required. You never need to trust us with your funds or assets, and the complete protocol implementation is publicly auditable.
 </div>
 </v-flex xs12 md6>
 <v-flex xs12 md6>
@@ -56,7 +56,7 @@ The Wyvern Protocol is controlled by a distributed autonomous organization which
 </v-flex>
 <!--
 <v-flex xs12 md12>
-<iframe src="https://landing.mailerlite.com/webforms/landing/t4d5g6" style="margin: 0 auto; border: none; width: 460px; height: 220px; display: block; overflow: hidden;"></iframe>
+<iframe src="https://landing.mailerlite.com/webforms/landing/bleh" style="margin: 0 auto; border: none; width: 460px; height: 220px; display: block; overflow: hidden;"></iframe>
 </v-flex>
 -->
 </v-layout>
