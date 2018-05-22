@@ -21,7 +21,7 @@ Vue.use(VueScrollTo)
 const router = new VueRouter({ routes: routes, mode: 'history' })
 
 Vue.use(VueAnalytics, {
-  id: 'UA-98270549-3',
+  id: '',
   router
 })
 
